@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 38644ef6ec9fe6e4a80f8ba9cdafdf35
+timeCreated: 1680588792
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _SpecularLUT: {instanceID: 0}
+  userData: 
+  assetBundleName: hssssresources
+  assetBundleVariant: unity3d
